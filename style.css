@@ -1,0 +1,60 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+body{
+    background-color: grey;
+    background-image: url("C:\Users\YuvrajGangaram(RAPP)\OneDrive - OneWorkplace\Desktop\Projects\Restaurant Website\images\restau_background.jpg");
+    background-size: cover;
+    background-repeat:none;
+}
+
+header{
+    height: 118px;
+    text-align: center;
+    
+}
+
+nav{
+    background-color: rgb(255, 0, 47);
+    height: 48px;
+}
+
+main{
+    height: 400px;
+    padding-top: 80px;
+    text-align: center;  
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer{
+    background-color: greenyellow;
+    height: 100px;
+}
+
+h1{
+    text-align: center;
+    font-size: 84px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p1{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+a{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    /*text-decoration: none;*/
+}
+
+
+
+ 
